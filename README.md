@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shakil Hossain
-- 👀 I’m interested in Php larval Framwork
-- 🌱 I’m currently learning Larval
+- 👀 I’m interested in Php laravel Framwork
+- 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on Full Stack Devloper
 - 📫 How to reach me ...
 
