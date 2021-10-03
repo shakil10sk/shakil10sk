@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Shakil Hossain
 - 👀 I’m interested in Php laravel Framwork
-- 🌱 I’m currently learning Laravel
+- now i work on Innovation IT as a Juniour php Laraval Web Devloper 
+- 🌱 I’m currently learning Vanila JS, React JS
 - 💞️ I’m looking to collaborate on Full Stack Devloper
 - 📫 How to reach me ...
 
