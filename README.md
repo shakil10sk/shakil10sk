@@ -1,6 +1,6 @@
 # Hi 👋, I'm Md Shakil Hussain
 
-### Full-Stack Software Engineer | Laravel | Vue.js | Node.js | DevOps
+### Full-Stack Software Engineer | AI | MERN | Laravel | Vue.js | Node.js | FastAPI | DevOps
 
 🚀 Passionate Full-Stack Software Engineer with nearly 5 years of experience building scalable enterprise applications, government systems, SaaS platforms, and high-traffic web applications.
 
